@@ -1,0 +1,12 @@
+.button{
+    padding: 1em;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.button:hover{
+    background-color: blue;
+}
